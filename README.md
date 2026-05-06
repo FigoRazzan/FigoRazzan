@@ -169,13 +169,21 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 
 <div align="center">
 
-<i>Ular ini lebih produktif dari saya waktu lagi nunggu model selesai training...</i>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=🐍+nom+nom+nom...+eating+your+contributions...&repeat=false" alt="snake label"/>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FigoRazzan/FigoRazzan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FigoRazzan/FigoRazzan/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/FigoRazzan/FigoRazzan/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/FigoRazzan/FigoRazzan/output/github-snake.svg" width="100%"/>
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer" width="100%"/>
 
 </div>
 

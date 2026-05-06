@@ -32,7 +32,7 @@ jobs:
             if [ -f "$f" ]; then
               echo "Before: $(grep -o 'cs:[^;]*' $f || echo 'not found')"
               awk -v sc="$SNAKE_COLOR" -v ec="$EMPTY_COLOR" '{
-                gsub(/--cs:[0-9A-Fa-f]*/, "--cs:#" sc)
+                gsub(/--cs:[^;]*/, "--cs:#" sc)
                 gsub(/--ce:#161b22/, "--ce:#" ec)
                 gsub(/--c0:#161b22/, "--c0:#" ec)
                 print

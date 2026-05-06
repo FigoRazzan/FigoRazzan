@@ -33,6 +33,12 @@ jobs:
               echo "Before: $(grep -o 'cs:[^;]*' $f || echo 'not found')"
               awk -v sc="$SNAKE_COLOR" '{
                 gsub(/--cs:[^;]*/, "--cs:#" sc)
+                gsub(/--ce:[^;]*/, "--ce:#060b14")
+                gsub(/--c0:[^;]*/, "--c0:#060b14")
+                gsub(/--c1:[^;]*/, "--c1:#3b0764")
+                gsub(/--c2:[^;]*/, "--c2:#6b21a8")
+                gsub(/--c3:[^;]*/, "--c3:#9333ea")
+                gsub(/--c4:[^;]*/, "--c4:#c084fc")
                 print
               }' "$f" > "${f}.tmp" && mv "${f}.tmp" "$f"
               echo "After: $(grep -o 'cs:[^;]*' $f || echo 'not found')"

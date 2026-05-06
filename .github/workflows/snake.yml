@@ -26,18 +26,18 @@ jobs:
 
       - name: Fix Snake CSS Colors
         run: |
+          SNAKE_COLOR='A78BFA'
+          EMPTY_COLOR='1e1040'
           for f in dist/github-snake.svg dist/github-snake-dark.svg; do
             if [ -f "$f" ]; then
-              echo "=== Before fix ==="
-              grep -o '\-\-cs:[^;]*' "$f" || true
-              # Fix: --cs is set WITHOUT '#' prefix by snk → makes snake black
-              # Replace whatever invalid value --cs has → valid purple hex
-              sed -i 's/--cs:[^;"}]*/--cs:#A78BFA/g' "$f"
-              # Make empty squares dark purple instead of near-black
-              sed -i 's/--ce:#161b22/--ce:#1e1040/g' "$f"
-              sed -i 's/--c0:#161b22/--c0:#1e1040/g' "$f"
-              echo "=== After fix ==="
-              grep -o '\-\-cs:[^;]*' "$f" || true
+              echo "Before: $(grep -o 'cs:[^;]*' $f || echo 'not found')"
+              awk -v sc="$SNAKE_COLOR" -v ec="$EMPTY_COLOR" '{
+                gsub(/--cs:[0-9A-Fa-f]*/, "--cs:#" sc)
+                gsub(/--ce:#161b22/, "--ce:#" ec)
+                gsub(/--c0:#161b22/, "--c0:#" ec)
+                print
+              }' "$f" > "${f}.tmp" && mv "${f}.tmp" "$f"
+              echo "After: $(grep -o 'cs:[^;]*' $f || echo 'not found')"
             fi
           done
 

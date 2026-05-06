@@ -31,10 +31,8 @@ jobs:
           for f in dist/github-snake.svg dist/github-snake-dark.svg; do
             if [ -f "$f" ]; then
               echo "Before: $(grep -o 'cs:[^;]*' $f || echo 'not found')"
-              awk -v sc="$SNAKE_COLOR" -v ec="$EMPTY_COLOR" '{
+              awk -v sc="$SNAKE_COLOR" '{
                 gsub(/--cs:[^;]*/, "--cs:#" sc)
-                gsub(/--ce:#161b22/, "--ce:#" ec)
-                gsub(/--c0:#161b22/, "--c0:#" ec)
                 print
               }' "$f" > "${f}.tmp" && mv "${f}.tmp" "$f"
               echo "After: $(grep -o 'cs:[^;]*' $f || echo 'not found')"

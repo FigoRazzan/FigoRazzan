@@ -89,7 +89,7 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 📊 Dataset    : ~6.000 entri + metadata lengkap
 🧠 Model      : IndoBERTweet (fine-tuned)
 ⚙️ Algoritma  : XGBoost, Transformer-based
-🔬 Pembimbing : Bapak Uung
+
 ```
 
 > *6.000 baris data nggak bakal label sendiri — itu kenapa ada pipeline otomatis!*
@@ -151,20 +151,31 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FigoRazzan&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FigoRazzan&theme=tokyonight" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FigoRazzan&theme=tokyonight" alt="Profile Details"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=📊+Total+Commits+%7C+Repositories+%7C+PRs+%7C+Issues;🌐+TypeScript+%7C+Python+%7C+PHP+%7C+JavaScript;🔥+Consistent+commits%2C+consistent+growth...;🏆+From+0+to+Production+—+every+single+time" alt="Animated Stats Ticker"/>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=FigoRazzan&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="GitHub Streak"/>
-</div>
+<br/>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FigoRazzan&bg_color=0d1117&color=A78BFA&line=7C3AED&point=F472B6&area=true&hide_border=true&area_color=7C3AED" alt="Activity Graph"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FigoRazzan&theme=tokyonight" alt="GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FigoRazzan&theme=tokyonight" alt="Repos per Language"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FigoRazzan&theme=tokyonight" alt="Most Commit Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FigoRazzan&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FigoRazzan&theme=tokyonight" alt="Profile Details"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=FigoRazzan&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FigoRazzan&bg_color=0d1117&color=A78BFA&line=7C3AED&point=F472B6&area=true&hide_border=true&area_color=7C3AED" alt="Activity Graph"/>
+
 </div>
 
 ---

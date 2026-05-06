@@ -151,8 +151,8 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=FigoRazzan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats"/>
-  <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=FigoRazzan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=FigoRazzan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FigoRazzan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=🐍+nom+nom+nom...+eating+your+contributions...&repeat=false" alt="snake label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%90%8D+nom+nom+nom...+eating+your+contributions...&repeat=false" alt="snake label"/>
 
 <br/>
 

@@ -151,12 +151,12 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=FigoRazzan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FigoRazzan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=FigoRazzan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats"/>
+  <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=FigoRazzan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FigoRazzan&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=FigoRazzan&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">

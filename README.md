@@ -151,8 +151,12 @@ Penelitian skripsi di bidang **Natural Language Processing** untuk mendeteksi ak
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=FigoRazzan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FigoRazzan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FigoRazzan&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FigoRazzan&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FigoRazzan&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 <div align="center">

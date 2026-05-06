@@ -21,28 +21,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=39FF14
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=00FF88
-
-      - name: Force Dark Theme on Snake SVG
-        run: |
-          for f in dist/github-snake.svg dist/github-snake-dark.svg; do
-            if [ -f "$f" ]; then
-              echo "Processing $f..."
-              # Replace white/light backgrounds
-              sed -i 's/fill="white"/fill="#0d1117"/g' "$f"
-              sed -i 's/fill="#ffffff"/fill="#0d1117"/g' "$f"
-              sed -i 's/fill="#FFFFFF"/fill="#0d1117"/g' "$f"
-              # Replace light theme empty contribution squares
-              sed -i 's/fill="#ebedf0"/fill="#161b22"/g' "$f"
-              sed -i 's/fill="#ebebeb"/fill="#161b22"/g' "$f"
-              # Remove any white stroke
-              sed -i 's/stroke="white"/stroke="#0d1117"/g' "$f"
-              sed -i 's/stroke="#ffffff"/stroke="#0d1117"/g' "$f"
-              echo "Done: $f"
-              grep -c 'fill="#0d1117"' "$f" || true
-            fi
-          done
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

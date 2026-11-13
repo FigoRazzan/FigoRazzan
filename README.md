@@ -304,7 +304,7 @@ Beyond private production & research codebases, here are my active public reposi
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&random=false&width=520&lines=%F0%9F%90%8D+nom+nom+nom...+eating+my+contributions+in+cyber-violet+mode&repeat=false" alt="snake label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&random=false&width=640&lines=%F0%9F%90%8D+nom+nom+nom...+eating+my+contributions!&repeat=false" alt="snake label"/>
 
 <br/>
 

@@ -280,17 +280,17 @@ Beyond private production & research codebases, here are my active public reposi
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FigoRazzan&theme=tokyonight" alt="GitHub Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FigoRazzan&theme=tokyonight" alt="Repos per Language"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language"/>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FigoRazzan&theme=tokyonight" alt="Most Commit Language"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=FigoRazzan&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9&v=2" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FigoRazzan&theme=tokyonight" alt="Profile Details"/>
+<img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details"/>
 
 </div>
 

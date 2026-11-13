@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Figo%20Razzan%20Fadillah&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=S1%20Informatics%20Graduate%20%28ITENAS%20Bandung%29%20%E2%80%A2%20AI%2FML%20Engineer%20%26%20Full-Stack%20Developer%20%E2%80%A2%20CTO%20%40%20Ezwift%20Connect&descAlignY=60&descSize=13" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Figo%20Razzan%20Fadillah&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=S1%20Informatics%20Graduate%20%28ITENAS%20Bandung%29%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CTO%20%40%20Ezwift&descAlignY=60&descSize=13" alt="Header Banner" />
 
 <br/>
 
